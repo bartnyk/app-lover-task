@@ -4,7 +4,7 @@ This is a Django Rest Framework application for managing a library.
 
 ## Models
 
-- `Book`: Represents a book in the library. Each book has a title, author, and publication date.
+- `Book`: Represents a book in the library. Each book has a title, author, and serial number.
 - `Rent`: Represents a book rental. Each rental has a book, a library card number, a rent date, and a return date.
 
 ## API Endpoints
