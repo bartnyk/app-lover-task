@@ -1,6 +1,7 @@
 # Library Management System
 
-This is a Django Rest Framework application for managing a library.
+This is a DRF application for managing a library.
+The application was part of a recruitment process (failed).
 
 ## Models
 
